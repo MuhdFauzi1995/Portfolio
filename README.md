@@ -4,7 +4,7 @@
 ### Movie Magic
 - Description
   - A data pipeline that uses The Movie Database (TMDB) API to extract, transform and load movie data into a SQL database. This database is then queried to answer questions related to box office success.
-- [Link](https://github.com/MuhdFauzi1995/JDE10_Interim_Project-Movie_Magic)
+- [GitHub Link](https://github.com/MuhdFauzi1995/JDE10_Interim_Project-Movie_Magic)
 
 # Education
 - Singapore Institute of Technology

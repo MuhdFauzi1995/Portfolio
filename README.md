@@ -2,13 +2,18 @@
 
 ## Projects
 ### Movie Magic
-- Description
-  - A data pipeline that uses The Movie Database (TMDB) API to extract, transform and load movie data into a SQL database. This database is then queried to answer questions related to box office success.
+- A data pipeline that uses The Movie Database (TMDB) API to extract, transform and load movie data into a SQL database. This database is then queried to answer questions related to box office success.
+- Tools:
+  - Python
+  - PostgreSQL
 - [GitHub Link](https://github.com/MuhdFauzi1995/JDE10_Interim_Project-Movie_Magic)
 
 ### JDE 10 Final Project
-- Description
-  - An ELT data pipeline that uses the Brazilian E-Commerce Public Dataset consisting of 9 CSV files made by Olist from Kaggle.
+- An ELT data pipeline that uses the Brazilian E-Commerce Public Dataset consisting of 9 CSV files made by Olist from Kaggle.
+- Tools:
+  - Databricks
+  - Tableau
+  - Power BI
 - [Github Link](https://github.com/MuhdFauzi1995/JDE_10_Final_Project)
 
 # Education

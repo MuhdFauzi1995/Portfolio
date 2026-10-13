@@ -9,7 +9,7 @@
 ### JDE 10 Final Project
 - Description
   - An ELT data pipeline that uses the Brazilian E-Commerce Public Dataset consisting of 9 CSV files made by Olist from Kaggle.
-- [Github Link]()
+- [Github Link](https://github.com/MuhdFauzi1995/JDE_10_Final_Project)
 
 # Education
 - Singapore Institute of Technology

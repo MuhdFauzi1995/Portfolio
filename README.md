@@ -15,6 +15,7 @@
   - Tableau
   - Power BI
 - [Github Link](https://github.com/MuhdFauzi1995/JDE_10_Final_Project)
+- [Tableau Public Link](https://public.tableau.com/app/profile/riani.y/viz/Olist_Dashboard_v2/OlistE-commercePerformanceDashboard)
 
 # Education
 - Singapore Institute of Technology

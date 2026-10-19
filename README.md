@@ -1,11 +1,11 @@
 # Muhammad Fauzi Bin Mohammad Rais
-
+---
 ## Projects
 
 ### Movie Magic
 
 #### Overview
-The movie industry is unpredictable in terms of each movie's performance. Their budgets are usually in the millions but their success is affected by many factors, such as the genres, the time of release and if that movie belongs to a franchise. The comparison between a movie's box office and ratings is also unclear. 
+The movie industry is unpredictable in terms of each movie's performance. Their budgets usually cost  millions but their success is affected by many factors, such as the genres, the time of release and if that movie belongs to a franchise. The comparison between a movie's box office and ratings is also unclear. 
 
 The objective of this project is to develop a ETL pipeline by extracting data from The Movie Database (TMDb) though its Application Programming Interface (API). The data is to be transformed into a suitable format and loaded into a SQL Database for analysis to answer various business questions regarding what makes a movie successful. The results from the queries are to be visualized to show and compare the factors affecting a movie's success.
 
@@ -24,13 +24,17 @@ The objective of this project is to develop a ETL pipeline by extracting data fr
 - The data extracted from the TMDb API is small with only 60 movies extracted.
 
 #### Results
-1. It was found that movies make the most money in December and January, which are considered holiday months.
-2. Original movies are as successful as those from franchises.
+1. It was found that movies make the most money in January ($2.3 billion) and December ($1.7 billion), which are considered holiday months.
+2. Original movies are as successful as those from franchises with total revenues of $1.4 billion and $1.39 billion respectively. 
 3. The duration of movies do not appear to be longer; they tend to vary over the years.
-4. The top 3 grossing genres are Romance, Science Fiction ana Drama.
+4. The top 3 grossing genres are:
+  - Romance ($1.53 billion),
+  - Science Fiction ($1.53 billion)
+  - Drama ($1.51 billion).
 5. There is no clear correlation between a movie's box office performance and its ratings.
 
-[GitHub Link](https://github.com/MuhdFauzi1995/JDE10_Interim_Project-Movie_Magic)
+[View Github Repository here](https://github.com/MuhdFauzi1995/JDE10_Interim_Project-Movie_Magic)
+
 
 ### JDE 10 Final Project
 
@@ -66,13 +70,15 @@ The objective of this project is to develop an ELT pipeline to obtain data from 
 3. The 10 slowest states have an average delivery time of 20 to 29 days. The top 3 states with slowest deliveries are Ceará, Pará, and Maranhão; their delivery volumes are small.
 4. It was determined that the quantity of orders contributes to business growth, not revenue per order. Since January 2017, Olist has grown in terms of orders and GMV by 7 to 8 times.
 
-[Github Link](https://github.com/MuhdFauzi1995/JDE_10_Final_Project)
-[Tableau Public Link](https://public.tableau.com/app/profile/riani.y/viz/Olist_Dashboard_v2/OlistE-commercePerformanceDashboard)
+[View Github Repository here](https://github.com/MuhdFauzi1995/JDE_10_Final_Project)
 
+[View Olist results in Tableau Public here](https://public.tableau.com/app/profile/riani.y/viz/Olist_Dashboard_v2/OlistE-commercePerformanceDashboard)
+
+---
 # Education
 - Singapore Institute of Technology
   - Bachelors' Degree (with Honours) in Chemical Engineering (Sep 2017 - Feb 2021)
-
+---
 # Work History
 - Mitsui Chemicals (Sep 2022 - Sep 2024)
   - Assistant Engineer (Technical Support)

@@ -74,12 +74,11 @@ The objective of this project is to develop an ELT pipeline to obtain data from 
 
 [View Olist results in Tableau Public here](https://public.tableau.com/app/profile/riani.y/viz/Olist_Dashboard_v2/OlistE-commercePerformanceDashboard)
 
----
-# Education
+## Education
 - Singapore Institute of Technology
   - Bachelors' Degree (with Honours) in Chemical Engineering (Sep 2017 - Feb 2021)
----
-# Work History
+
+## Work History
 - Mitsui Chemicals (Sep 2022 - Sep 2024)
   - Assistant Engineer (Technical Support)
     - Performed analysis on plastic samples to determine their physical properties

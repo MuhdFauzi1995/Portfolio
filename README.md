@@ -62,8 +62,8 @@ The objective of this project is to develop an ELT pipeline to obtain data from 
 
 #### Results
 1. The Health and Beauty category was the best selling category at R$ 1233 K. There was a spike in sales at November 2017 where Black Friday took place, earning R$ 987 K
-2. It was found that delivery speed contributes to 25% of review results with other factors influencing satisfaction, suvh as quality and price.
-3.The 10 slowest states have an average delivery time of 20 to 29 days. The top 3 states with slowest deliveries are Ceará, Pará, and Maranhão; their delivery volumes are small.
+2. It was found that delivery speed contributes to 25% of review results with other factors influencing satisfaction, such as quality and price.
+3. The 10 slowest states have an average delivery time of 20 to 29 days. The top 3 states with slowest deliveries are Ceará, Pará, and Maranhão; their delivery volumes are small.
 4. It was determined that the quantity of orders contributes to business growth, not revenue per order. Since January 2017, Olist has grown in terms of orders and GMV by 7 to 8 times.
 
 [Github Link](https://github.com/MuhdFauzi1995/JDE_10_Final_Project)

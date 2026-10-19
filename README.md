@@ -1,4 +1,4 @@
-# Portfolio: Muhammad Fauzi Bin Mohammad Rais
+# Muhammad Fauzi Bin Mohammad Rais
 
 ## Projects
 

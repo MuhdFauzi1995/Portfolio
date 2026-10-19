@@ -24,11 +24,11 @@ The objective of this project is to develop a ETL pipeline by extracting data fr
 - The data extracted from the TMDb API is small with only 60 movies extracted.
 
 #### Results
-- It was found that movies make the most money in December and January, which are considered holiday months.
-- Original movies are as successful as those from franchises.
-- The duration of movies do not appear to be longer; they tend to vary over the years.
-- The top 3 grossing genres are Romance, Science Fiction ana Drama.
-- There is no clear correlation between a movie's box office performance and its ratings.
+1. It was found that movies make the most money in December and January, which are considered holiday months.
+2. Original movies are as successful as those from franchises.
+3. The duration of movies do not appear to be longer; they tend to vary over the years.
+4. The top 3 grossing genres are Romance, Science Fiction ana Drama.
+5. There is no clear correlation between a movie's box office performance and its ratings.
 
 [GitHub Link](https://github.com/MuhdFauzi1995/JDE10_Interim_Project-Movie_Magic)
 
@@ -37,7 +37,7 @@ The objective of this project is to develop a ETL pipeline by extracting data fr
 #### Overview
 Olist is a Brazilian e-commerce technology company that connects local small and medium enterprises (SMEs) to online markets and manage their sales. Various online orders are made there and tracked by Olist in various aspects, such as customers, sellers, geographic, financial and performance data. 
 
-The objective of this project is to develop an ELT pipeline to obtain data from Olist's publicly released data as 9 CSV files found in Kaggle. The data undergoes a medallion architecture in Databricks where it is ingested in its raw form (Brinze), undergoes cleaning and standardization (Silver) and finally prepared in a database to evaluate business KPIs (Gold). The Silver layer is known to address many anomalies found in the CSV files, such as inconsistent city name spelling, duplicate or erroneous ZIP codes and orders containing critical errors in their dates, statuses and financial statistics.
+The objective of this project is to develop an ELT pipeline to obtain data from Olist's publicly released data as 9 CSV files found in Kaggle. The data in question consists of over 100,000 orders made between 2016 to 2018 which undergoes a medallion architecture in Databricks where it is ingested in its raw form (Bronze), undergoes cleaning and standardization (Silver) and finally prepared in a database to evaluate business KPIs (Gold). The Silver layer is known to address many anomalies found in the CSV files, such as inconsistent city name spelling, duplicate or erroneous ZIP codes and orders containing critical errors in their dates, statuses and financial statistics.
 
 #### Business questions
 1. Which product categories are the best selling and how does revenue trend over time?
